@@ -21,7 +21,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) VALU
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Aluminium Nonstick 3-Piece Frying Pan Set", "Kitchenware", 19.54, 25);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("iPad Air Smart Case", "Tech Cases", 10.99, 106);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Tea Tree Body Wash", "Beauty", 10.00, 87);
-INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Flavored Sparkling Mineral Water,", "Grocery", 13.58, 200);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Flavored Sparkling Mineral Water", "Grocery", 13.58, 200);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Twin Air Mattress", "Outdoor", 68.99, 40);
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Wide Brim Sun Hat", "Fashion Accessories", 12.99, 71);
 
